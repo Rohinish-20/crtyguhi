@@ -1,0 +1,42 @@
+body
+{
+ background-color: mediumturquoise;
+}
+
+.heading
+{
+ width: 100%;
+ font-size: 25.5px;
+ font-weight: bold;
+ margin: 0;
+ box-shadow: 5px 5px 5px red;
+ color: firebrick;
+}
+
+.note
+{
+ font-size: 13.5px;
+ color: cyan;
+ font-weight: 700;
+}
+
+.author
+{
+ position: fixed;
+ text-align: center;
+ background-color: rgb(196, 250, 0);
+ color: grey;
+ width: 100%;
+ bottom: 0;
+ line-height: 3;
+ font-size: 13.3px;
+ font-weight: 1000;
+}
+
+canvas
+{
+ border: 5px solid black;
+ border-radius: 30px;
+ box-shadow: 30px 30px 30px mediumspringgreen;
+ margin-top: 50px;
+}
